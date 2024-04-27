@@ -1,0 +1,6 @@
+[
+  {
+    "enable": true,
+    "schedule": "0 0 * * * *"
+  }
+]
